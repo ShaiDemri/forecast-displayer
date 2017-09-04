@@ -1,2 +1,2 @@
 # forecast-displayer
-Search for a city by name an get full forecast for the next days.
+Search for a city by name and get full forecast for the next days.
